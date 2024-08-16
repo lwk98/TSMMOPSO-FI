@@ -1,10 +1,5 @@
 clear
 clc
-% 主文件夹路径
-root_path = 'C:\Users\ll\Desktop\程序代码\multimodal个人实验代码\';  
-addpath('C:\Users\ll\Desktop\程序代码\multimodal个人实验代码\utils');
-addpath('C:\Users\ll\Desktop\程序代码\multimodal个人实验代码\result2');
-addpath 'C:\Users\ll\Desktop\程序代码\minepy-master\minepy-master\matlab'
 
 % 数据集名称列表
 warning off
